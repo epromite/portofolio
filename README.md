@@ -92,5 +92,3 @@ Situs ini dirancang untuk menampilkan portofolio, galeri, serta berbagai alat da
 🔗 **[Epromite.id 방문하기](https://epromite.id)** (이용 가능 시)  
 
 ---  
-
-Dengan format ini, orang bisa dengan mudah memilih bahasa yang mereka inginkan. Kalau ada yang ingin diperbaiki atau ditambah, tinggal kasih tahu! 🚀
