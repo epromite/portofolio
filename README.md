@@ -2,6 +2,8 @@
 
 # Epromite.id  
 
+![Epromite Banner](img/banner.png)
+
 Welcome to **Epromite.id**, the official website showcasing various projects, works, and resources by Epromite.  
 
 ## 🌍 Select Your Language | Pilih Bahasa | 言語を選択 | 选择语言 | 언어 선택  
